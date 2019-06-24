@@ -1,0 +1,16 @@
+public class even_odd
+{
+public static void main (string args[]){
+Scanner input=new Scanner(System.in);
+System.out.println("enter an integer");
+int x=input.nextInt();
+if (x%2==0)
+{ 
+System.out.println("Integer is even number");
+}
+else 
+{
+System.out.println("Integer is odd number");
+}
+}
+}
