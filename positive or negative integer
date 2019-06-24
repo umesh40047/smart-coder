@@ -1,7 +1,8 @@
 public class test1 {
 public static void main (string arg[]){
-int x;
-system.out.println("enter an integer value"+x);
+Scanner input=new Scanner(Sysytem.in);
+Sysytem.out.println=("Enter an integer value");
+int x=input.nextInt();
 if (x>>0)
 {
 system.out.println("it is positive number");
@@ -11,6 +12,7 @@ sysytem.out.println(" it is negative number")
 }
 else
 system.out.println("it is a zero");
+}
 }
 }
 
