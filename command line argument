@@ -1,0 +1,15 @@
+class Command_line_arg
+
+{
+
+  public static void main(String args[])
+
+  {
+
+   System.out.println(args[0] + “ technologies ”);
+
+   System.out.println(args[1]);
+
+    }
+
+}
