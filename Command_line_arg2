@@ -1,0 +1,5 @@
+class Command_line_arg2{
+public static void main(String args[]){
+System.out.println("welcome"+arg[0]);
+}
+}
